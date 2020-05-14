@@ -1,0 +1,19 @@
+{
+  "name": "tlpauctions-uploader",
+  "version": "1.0.0",
+  "description": "Upload eqlog files to TLPAuctions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoopsMcButt/TLPAuctions-Uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoopsMcButt/TLPAuctions-Uploader/issues"
+  },
+  "homepage": "https://github.com/PoopsMcButt/TLPAuctions-Uploader#readme"
+}
